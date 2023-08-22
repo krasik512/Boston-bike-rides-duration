@@ -1,0 +1,531 @@
+,zip_code,address,home_lat,home_long
+0,'97217,"Arbor Lodge, Portland, Multnomah County, Oregon, 97217, United States",45.57241481796656,-122.68598041432571
+1,'02215,"Fenway / Kenmore, Boston, Suffolk County, Massachusetts, 02215, United States",42.3480718928382,-71.1022310127321
+2,'02108,"Beacon Hill, Boston, Suffolk County, Massachusetts, 02108, United States",42.35758730172811,-71.0659268139401
+3,'02116,"Back Bay, Boston, Suffolk County, Massachusetts, 02116, United States",42.35113927286324,-71.07650450678419
+4,'97214,"Buckman, Portland, Multnomah County, Oregon, 97214, United States",45.51421785891576,-122.63858270590704
+5,'02021,"Canton, Norfolk County, Massachusetts, 02021, United States",42.177046997979794,-71.1296546010101
+6,'02140,"Cambridge, Middlesex County, Massachusetts, 02140, United States",42.39260892,-71.12672027653846
+7,'01867,"Reading, Middlesex County, Massachusetts, 01867, United States",42.52848516274742,-71.10897597123251
+8,'02446,"Brookline, Norfolk County, Massachusetts, 02446, United States",42.34289827596154,-71.1228292451923
+9,'02128,"East Boston, Boston, Suffolk County, Massachusetts, 02128, United States",42.37656739525278,-71.03084955604191
+10,'02115,"Fenway / Kenmore, Boston, Suffolk County, Massachusetts, 02115, United States",42.34689548319328,-71.08986155392157
+11,'02492,"Needham, Norfolk County, Massachusetts, 02492, United States",42.275026897714284,-71.23747086514285
+12,'02118,"South End, Boston, Suffolk County, Massachusetts, 02118, United States",42.33986022086331,-71.06895352877697
+13,'02139,"Cambridge, Middlesex County, Massachusetts, 02139, United States",42.36395764499055,-71.10166153175804
+14,'02351,"Abington, Plymouth County, Massachusetts, 02351, United States",42.11332155952381,-70.94692975476191
+15,'02143,"Somerville, Middlesex County, Massachusetts, 02143, United States",42.38332721585366,-71.10131290182926
+16,'02130,"Jamaica Plain, Boston, Suffolk County, Massachusetts, 02130, United States",42.31164807875175,-71.10945436353437
+17,'02474,"Arlington, Middlesex County, Massachusetts, 02474, United States",42.41168903613861,-71.1430200990099
+18,'01776,"Sudbury, Middlesex County, Massachusetts, 01776, United States",42.41495890897755,-71.42883285610972
+19,'01880,"Wakefield, Middlesex County, Massachusetts, 01880, United States",42.500817305940835,-71.0675777376703
+20,'02131,"Roslindale, Boston, Suffolk County, Massachusetts, 02131, United States",42.283540371926605,-71.12893275498472
+21,'02144,"Somerville, Middlesex County, Massachusetts, 02144, United States",42.39709422838428,-71.11903011441048
+22,'02151,"Revere, Suffolk County, Massachusetts, 02151, United States",42.41625790506329,-71.00093701772153
+23,'02127,"South Boston, Boston, Suffolk County, Massachusetts, 02127, United States",42.33432868348778,-71.04121517796968
+24,'02445,"Brookline, Norfolk County, Massachusetts, 02445, United States",42.33129674464286,-71.12899822857143
+25,'02113,"North End, Boston, Suffolk County, Massachusetts, 02113, United States",42.365115579289494,-71.05506294104308
+26,'01876,"Tewksbury, Middlesex County, Massachusetts, 01876, United States",42.60798124117647,-71.24494883903743
+27,'02114,"Beacon Hill, Boston, Suffolk County, Massachusetts, 02114, United States",42.36065836951317,-71.06663892106943
+28,'01742,"Concord, Middlesex County, Massachusetts, 01742, United States",42.4578412852312,-71.37133571389924
+29,'01945,"Marblehead, Essex County, Massachusetts, 01945, United States",42.49952888333333,-70.86198647
+30,'01720,"Acton, Middlesex County, Massachusetts, 01720, United States",42.47854735340867,-71.44625460272323
+31,'01890,"Winchester, Middlesex County, Massachusetts, 01890, United States",42.45642839809524,-71.14102441904762
+32,'01719,"Boxborough, Middlesex County, Massachusetts, 01719, United States",42.488131585714285,-71.51980887857142
+33,'02135,"Brighton, Boston, Suffolk County, Massachusetts, 02135, United States",42.35006120701829,-71.15404182343683
+34,'02138,"Brighton, Boston, Suffolk County, Massachusetts, 02138, United States",42.3510256478125,-71.1625823040625
+35,'01760,"Natick, Middlesex County, Massachusetts, 01760, United States",42.29788141746032,-71.35266153650794
+36,'02134,"Allston, Boston, Suffolk County, Massachusetts, 02134, United States",42.35659468626126,-71.13087487342342
+37,'01545,"Shrewsbury, Worcester County, Massachusetts, 01545, United States",42.29021093642384,-71.7258671
+38,'02109,"North End, Boston, Suffolk County, Massachusetts, 02109, United States",42.36185666966292,-71.0526346139045
+39,'01944,"Manchester-by-the-Sea, Essex County, Massachusetts, 01944, United States",42.575554260000004,-70.7784669
+40,'02038,"Franklin, Norfolk County, Massachusetts, 02038, United States",42.08157951698113,-71.39787426037736
+41,'02360,"Plymouth, Plymouth County, Massachusetts, 02360, United States",41.93730171230284,-70.65593204605678
+42,'02025,"Cohasset, Norfolk County, Massachusetts, 02025, United States",42.23363375192308,-70.80584597307693
+43,'01740,"Bolton, Worcester County, Massachusetts, 01740, United States",42.43688799375,-71.614592590625
+44,'02186,"Milton, Norfolk County, Massachusetts, 02186, United States",42.22424881287129,-71.09210494158415
+45,'02163,"Allston, Boston, Suffolk County, Massachusetts, 02163, United States",42.36718682,-71.12416913999999
+46,'02359,"Pembroke, Plymouth County, Massachusetts, 02359, United States",42.06974418055556,-70.79893155833334
+47,'02155,"Medford, Middlesex County, Massachusetts, 02155, United States",42.41334472011173,-71.10709303296089
+48,'02420,"Lexington, Middlesex County, Massachusetts, 02420, United States",42.459769378431375,-71.22913730392156
+49,'02111,"Boston, Suffolk County, Massachusetts, 02111, United States",42.351292561954885,-71.06075584676691
+50,'01886,"Westford, Middlesex County, Massachusetts, 01886, United States",42.58002390145985,-71.48780500656933
+51,'02129,"Charlestown, Boston, Suffolk County, Massachusetts, 02129, United States",42.37792955365546,-71.06366073605041
+52,'02035,"Foxborough, Norfolk County, Massachusetts, 02035, United States",42.07319728703704,-71.25217677407407
+53,'02176,"Melrose, Middlesex County, Massachusetts, 02176, United States",42.45993239987869,-71.06466070251123
+54,'02458,"Newton, Middlesex County, Massachusetts, 02458, United States",42.35765113055556,-71.19410333888888
+55,'02124,"Dorchester, Boston, Suffolk County, Massachusetts, 02124, United States",42.286934850896685,-71.06580962738792
+56,'02061,"Norwell, Plymouth County, Massachusetts, 02061, United States",42.14520256,-70.81562601
+57,'01915,"Beverly, Essex County, Massachusetts, 01915, United States",42.56795629620253,-70.87697376835443
+58,'02030,"Dover, Norfolk County, Massachusetts, 02030, United States",42.246265666666666,-71.27783201666666
+59,'01773,"Lincoln, Middlesex County, Massachusetts, 01773, United States",42.42165854285714,-71.31529575142856
+60,'02478,"Belmont, Middlesex County, Massachusetts, 02478, United States",42.390632593939394,-71.1757467878788
+61,'02461,"Newton, Middlesex County, Massachusetts, 02461, United States",42.32504072647059,-71.21066623235293
+62,'02110,"Downtown Boston, Boston, Suffolk County, Massachusetts, 02110, United States",42.35689467857143,-71.05382863828571
+63,'01966,"Rockport, Essex County, Massachusetts, 01966, United States",42.651788175,-70.6189423
+64,'02152,"Winthrop, Suffolk County, Massachusetts, 02152, United States",42.3814673,-70.97964415675676
+65,'02889,"Warwick, Kent County, Rhode Island, 02889, United States",41.716588495192305,-71.39177148173077
+66,'02141,"Cambridge, Middlesex County, Massachusetts, 02141, United States",42.37132914925373,-71.08296652835821
+67,'02482,"Wellesley, Norfolk County, Massachusetts, 02482, United States",42.2973765,-71.29564024615384
+68,'02465,"Newton, Middlesex County, Massachusetts, 02465, United States",42.34753504285714,-71.23023111785714
+69,'02136,"Hyde Park, Boston, Suffolk County, Massachusetts, 02136, United States",42.25245909963353,-71.1282825
+70,'02191,"Weymouth, Norfolk County, Massachusetts, 02191, United States",42.244149039999996,-70.94051527666666
+71,'02460,"Newton, Middlesex County, Massachusetts, 02460, United States",42.35311178947368,-71.20810181578948
+72,'02148,"Malden, Middlesex County, Massachusetts, 02148, United States",42.427098550224216,-71.06872191569506
+73,'60084,"Wauconda, Cuba, Lake County, Illinois, 60084, United States",42.2754883363742,-88.1342488858222
+74,'02210,"South Boston, Boston, Suffolk County, Massachusetts, 02210, United States",42.3497142022613,-71.04516840778895
+75,'02476,"Arlington, Middlesex County, Massachusetts, 02476, United States",42.42035724714286,-71.17477587428571
+76,'11797,"Woodbury, Town of Oyster Bay, Nassau County, New York, 11797, United States",40.81399672640949,-73.47432763639961
+77,'02205,"Downtown Boston, Boston, Suffolk County, Massachusetts, 02205, United States",42.3484064,-71.0556091
+78,'02043,"Hingham, Plymouth County, Massachusetts, 02043, United States",42.21683580754717,-70.90302291320754
+79,'01982,"Hamilton, Essex County, Massachusetts, 01982, United States",42.61255185714286,-70.86359656190477
+80,'01907,"Swampscott, Essex County, Massachusetts, 01907, United States",42.478761791566264,-70.91538280722891
+81,'01604,"Worcester, Worcester County, Massachusetts, 01604, United States",42.26128642266667,-71.77907059733333
+82,'03301,"Concord, Merrimack County, New Hampshire, 03301, United States",43.21364207854749,-71.53166239743017
+83,'01921,"Boxford, Essex County, Massachusetts, 01921, United States",42.68969969375,-71.02090378125
+84,'02462,"Newton, Middlesex County, Massachusetts, 02462, United States",42.32745270833333,-71.25621096666666
+85,'01845,"North Andover, Essex County, Massachusetts, 01845, United States",42.68230293208955,-71.11823457985075
+86,'02125,"Dorchester, Boston, Suffolk County, Massachusetts, 02125, United States",42.31602309729858,-71.0592738814692
+87,'02120,"Mission Hill, Boston, Suffolk County, Massachusetts, 02120, United States",42.3303481347973,-71.10579256283783
+88,'02119,"Roxbury, Boston, Suffolk County, Massachusetts, 02119, United States",42.32024713302752,-71.08689548394496
+89,'01721,"Ashland, Middlesex County, Massachusetts, 01721, United States",42.25408827966102,-71.44910099830508
+90,'02145,"Somerville, Middlesex County, Massachusetts, 02145, United States",42.39049033781512,-71.08583121428572
+91,'02745,"New Bedford, Bristol County, Massachusetts, 02745, United States",41.70398464411765,-70.9384158882353
+92,'01532,"Pomfret, Northeastern Connecticut Planning Region, Connecticut, 01532, United States",41.80984304444444,-72.00663861111111
+93,'02149,"Everett, Middlesex County, Massachusetts, 02149, United States",42.40933723892387,-71.04146375203206
+94,'01887,"Wilmington, Middlesex County, Massachusetts, 01887, United States",42.558544634997276,-71.17250597635025
+95,'02090,"Westwood, Norfolk County, Massachusetts, 02090, United States",42.2138073640625,-71.1845921515625
+96,'02050,"Marshfield, Plymouth County, Massachusetts, 02050, United States",42.10704905405405,-70.70843394864865
+97,'01951,"Newbury, Essex County, Massachusetts, 01951, United States",42.785115012941176,-70.8444905282353
+98,'01930,"Gloucester, Essex County, Massachusetts, 01930, United States",42.618446527868855,-70.67359364262295
+99,'01905,"Lynn, Essex County, Massachusetts, 01905, United States",42.46643005624697,-70.97734353346246
+100,'01938,"Ipswich, Essex County, Massachusetts, 01938, United States",42.725816916203705,-70.83087777546297
+101,'01970,"Salem, Essex County, Massachusetts, 01970, United States",42.51536413498099,-70.89525650380227
+102,'01821,"Billerica, Middlesex County, Massachusetts, 01821, United States",42.539238032053746,-71.259245887524
+103,'01902,"Lynn, Essex County, Massachusetts, 01902, United States",42.46929154423077,-70.94959676153846
+104,'02066,"Scituate, Plymouth County, Massachusetts, 02066, United States",42.19956333666667,-70.75492627333334
+105,'02860,"Pawtucket, Providence County, Rhode Island, 02860, United States",41.87349339705882,-71.39343969705882
+106,'01923,"Danvers, Essex County, Massachusetts, 01923, United States",42.5672815877193,-70.94468387280702
+107,'01810,"Andover, Essex County, Massachusetts, 01810, United States",42.649734028048776,-71.14544296869919
+108,'02132,"West Roxbury, Boston, Suffolk County, Massachusetts, 02132, United States",42.28008682952005,-71.15683941058514
+109,'01178,"United States, Via Provinciale Ovest, Mola, Porto Azzurro, Livorno, Toscana, 57036, Italia",42.7628958,10.395024
+110,'02453,"Waltham, Middlesex County, Massachusetts, 02453, United States",42.3708062375,-71.2327458625
+111,'02703,"Attleboro, Bristol County, Massachusetts, 02703, United States",41.93027499661017,-71.31110289322034
+112,'02199,"Back Bay, Boston, Suffolk County, Massachusetts, 02199, United States",42.347149210000005,-71.08188000166666
+113,'01748,"Hopkinton, Middlesex County, Massachusetts, 01748, United States",42.2281739122449,-71.52319403265305
+114,'01985,"West Newbury, Essex County, Massachusetts, 01985, United States",42.798129816,-70.986059988
+115,'20009,"Washington, District of Columbia, 20009, United States",38.921103926397514,-77.03478052805383
+116,'02301,"Brockton, Plymouth County, Massachusetts, 02301, United States",42.08351093208955,-71.03957191417909
+117,'01770,"Sherborn, Middlesex County, Massachusetts, 01770, United States",42.24086236666667,-71.36967946666667
+118,'01826,"Dracut, Middlesex County, Massachusetts, 01826, United States",42.68640108786408,-71.30618830873786
+119,'01851,"Lowell, Middlesex County, Massachusetts, 01851, United States",42.628813746511625,-71.34184058604652
+120,'01730,"Bedford, Middlesex County, Massachusetts, 01730, United States",42.494624186920916,-71.27665274777726
+121,'02341,"Hanson, Plymouth County, Massachusetts, 02341, United States",42.05468168888889,-70.86413842222223
+122,'10065,"Manhattan, New York County, City of New York, New York, 10065, United States",40.76603544328031,-73.96469038848053
+123,'02472,"Watertown, Middlesex County, Massachusetts, 02472, United States",42.368175227692305,-71.17595194692308
+124,'20016,"Washington, District of Columbia, 20016, United States",38.93959887523364,-77.08743122398754
+125,'02169,"Quincy, Norfolk County, Massachusetts, 02169, United States",42.24649751578947,-71.00456313684211
+126,'02121,"Roxbury, Boston, Suffolk County, Massachusetts, 02121, United States",42.30759177983577,-71.08270019370438
+127,'01583,"West Boylston, Worcester County, Massachusetts, 01583, United States",42.36226779655172,-71.78587507586208
+128,'02464,"Newton, Middlesex County, Massachusetts, 02464, United States",42.312405,-71.21971452000001
+129,'02744,"New Bedford, Bristol County, Massachusetts, 02744, United States",41.61171942564103,-70.91726269230769
+130,'01778,"Wayland, Middlesex County, Massachusetts, 01778, United States",42.3630257421875,-71.3511812359375
+131,'02339,"Hanover, Plymouth County, Massachusetts, 02339, United States",42.12459054827586,-70.84833041724139
+132,'02026,"Dedham, Norfolk County, Massachusetts, 02026, United States",42.248720043478265,-71.16771262608697
+133,'02368,02368,42.18200929365079,-71.0505773
+134,'02324,"Bridgewater, Plymouth County, Massachusetts, 02324, United States",41.9666304175,-70.963985505
+135,'02493,"Weston, Middlesex County, Massachusetts, 02493, United States",42.35960054918033,-71.29584890983607
+136,'03104,"Manchester, Hillsborough County, New Hampshire, 03104, United States",43.0021809192673,-71.44604216037992
+137,'01772,"Marlborough, Middlesex County, Massachusetts, 01772, United States",42.34751677755102,-71.53723027755102
+138,'02332,"Duxbury, Plymouth County, Massachusetts, 02332, United States",42.038881782352945,-70.70201761764706
+139,'02184,02184,42.20754928536586,-70.99941815243902
+140,'02112,"United States, Via Provinciale Ovest, Mola, Porto Azzurro, Livorno, Toscana, 57036, Italia",42.7628958,10.395024
+141,'02048,"Mansfield, Bristol County, Massachusetts, 02048, United States",42.01070491666667,-71.22292994722223
+142,'02481,"Newton, Middlesex County, Massachusetts, 02481, United States",42.338753778260866,-71.24868552173912
+143,'01746,"Holliston, Middlesex County, Massachusetts, 01746, United States",42.21230381851852,-71.43002058641974
+144,'02238,"Cambridge, Middlesex County, Massachusetts, 02238, United States",42.3608923,-71.0964663
+145,'02459,"Newton, Middlesex County, Massachusetts, 02459, United States",42.31722670104167,-71.19140733541666
+146,'01504,"Blackstone, Worcester County, Massachusetts, 01504, United States",42.02289535,-71.53208078125
+147,'01519,"Grafton, Worcester County, Massachusetts, 01519, United States",42.200278258333334,-71.686736925
+148,'03062,"Ward 5, Nashua, Hillsborough County, New Hampshire, 03062, United States",42.7249414243894,-71.49595794641742
+149,'01701,"Framingham, Middlesex County, Massachusetts, 01701, United States",42.307074345454545,-71.41665621919192
+150,'03833,"Exeter, Rockingham County, New Hampshire, 03833, United States",42.9754160051282,-70.95265277692307
+151,'02052,"Medfield, Norfolk County, Massachusetts, 02052, United States",42.19822306046512,-71.32066895116279
+152,'02067,"Sharon, Norfolk County, Massachusetts, 02067, United States",42.114023089130434,-71.19458910434783
+153,'01984,"Wenham, Essex County, Massachusetts, 01984, United States",42.59958074615384,-70.86976336923077
+154,'01590,"Sutton, Worcester County, Massachusetts, 01590, United States",42.14566181666667,-71.74084467333333
+155,'02062,"Norwood, Norfolk County, Massachusetts, 02062, United States",42.19361472647059,-71.20145137941176
+156,'02920,"Cranston, Providence County, Rhode Island, 02920, United States",41.76937653145161,-71.46390266774193
+157,'01749,"Hudson, Middlesex County, Massachusetts, 01749, United States",42.39117217453465,-71.556958118
+158,'01757,"Milford, Worcester County, Massachusetts, 01757, United States",42.148757132283464,-71.53288491889764
+159,'01460,"Littleton, Middlesex County, Massachusetts, 01460, United States",42.54585265777778,-71.48602402
+160,'01450,"Groton, Middlesex County, Massachusetts, 01450, United States",42.612936390195244,-71.55969298637521
+161,'02356,"Easton, Bristol County, Massachusetts, 02356, United States",42.06233495,-71.10437815
+162,'01775,"Stow, Middlesex County, Massachusetts, 01775, United States",42.43066775219279,-71.51484521680418
+163,'01375,"Sunderland, Franklin County, Massachusetts, 01375, United States",42.44363291785714,-72.54704756607143
+164,'02467,"Brookline, Norfolk County, Massachusetts, 02467, United States",42.30481848892989,-71.15795789188192
+165,'02743,"Acushnet, Bristol County, Massachusetts, 02743, United States",41.70670501428572,-70.90082634285714
+166,'02190,"Weymouth, Norfolk County, Massachusetts, 02190, United States",42.17295738,-70.95449166499999
+167,'02072,"Stoughton, Norfolk County, Massachusetts, 02072, United States",42.113557017365274,-71.09632569820359
+168,'01475,"Winchendon, Worcester County, Massachusetts, 01475, United States",42.68455662307692,-72.04431867692307
+169,'02189,"Weymouth, Norfolk County, Massachusetts, 02189, United States",42.20481590833333,-70.92627402916666
+170,'02126,"Mattapan, Boston, Suffolk County, Massachusetts, 02126, United States",42.27416425086207,-71.09056730545977
+171,'02122,"Dorchester, Boston, Suffolk County, Massachusetts, 02122, United States",42.29517887051647,-71.0551999415006
+172,'02906,"Providence, Providence County, Rhode Island, 02906, United States",41.825467074556215,-71.39425643609468
+173,'02245,"United States, Via Provinciale Ovest, Mola, Porto Azzurro, Livorno, Toscana, 57036, Italia",42.7628958,10.395024
+174,'01950,"Newburyport, Essex County, Massachusetts, 01950, United States",42.8104744840909,-70.87425362613637
+175,'02886,"Warwick, Kent County, Rhode Island, 02886, United States",41.70607717548077,-71.46975251682693
+176,'02468,"Newton, Middlesex County, Massachusetts, 02468, United States",42.3273342,-71.2251374
+177,'01864,"North Reading, Middlesex County, Massachusetts, 01864, United States",42.57324976481481,-71.10648972407408
+178,'12866,"City of Saratoga Springs, Saratoga County, New York, 12866, United States",43.076556568866785,-73.76838956745091
+179,'01463,"Pepperell, Middlesex County, Massachusetts, 01463, United States",42.66685453478261,-71.60124209130434
+180,'02494,"Needham, Norfolk County, Massachusetts, 02494, United States",42.29702796585366,-71.2319159195122
+181,'02045,"Hull, Plymouth County, Massachusetts, 02045, United States",42.30153628,-70.9043667
+182,'01503,"Berlin, Worcester County, Massachusetts, 01503, United States",42.382823192017256,-71.63609039395901
+183,'02903,"Providence, Providence County, Rhode Island, 02903, United States",41.821176352317885,-71.40769436688741
+184,'01741,"Carlisle, Middlesex County, Massachusetts, 01741, United States",42.519496387931035,-71.32901473965518
+185,'01906,"Saugus, Essex County, Massachusetts, 01906, United States",42.46741920038023,-71.01154991444866
+186,'02447,"Brookline, Norfolk County, Massachusetts, 02447, United States",42.33067476,-71.13678874
+187,'02370,"Rockland, Plymouth County, Massachusetts, 02370, United States",42.13058561034483,-70.90877075862069
+188,'77018,"Houston, Harris County, Texas, 77018, United States",29.825087664845604,-95.42436343206651
+189,'02019,"Bellingham, Norfolk County, Massachusetts, 02019, United States",42.08789312424243,-71.46789620909091
+190,'01462,"Lunenburg, Worcester County, Massachusetts, 01462, United States",42.59737176511628,-71.74250279069767
+191,'02532,"Bourne, Barnstable County, Massachusetts, 02532, United States",41.743221865555554,-70.59871205555555
+192,'03037,"Deerfield, Rockingham County, New Hampshire, 03037, United States",43.14194057209302,-71.24856974573643
+193,'02171,"Quincy, Norfolk County, Massachusetts, 02171, United States",42.278370658620695,-71.02499529310344
+194,'01949,"Middleton, Essex County, Massachusetts, 01949, United States",42.593838205263154,-71.01110242631579
+195,'02142,"Cambridge, Middlesex County, Massachusetts, 02142, United States",42.363884933707865,-71.08308200674158
+196,'01453,"Leominster, Worcester County, Massachusetts, 01453, United States",42.53139484806867,-71.75647701502146
+197,'01824,"Chelmsford, Middlesex County, Massachusetts, 01824, United States",42.60130352142858,-71.35241836349206
+198,'01850,"Lowell, Middlesex County, Massachusetts, 01850, United States",42.65879313684211,-71.30866125789474
+199,'01929,"Essex, Essex County, Massachusetts, 01929, United States",42.630275,-70.78903310666668
+200,'02203,"Boston, Suffolk County, Massachusetts, 02203, United States",42.35970075,-71.05947885
+201,'02712,"United States, Via Provinciale Ovest, Mola, Porto Azzurro, Livorno, Toscana, 57036, Italia",42.7628958,10.395024
+202,'03854,"New Castle, Rockingham County, New Hampshire, 03854, United States",43.0702143745283,-70.72188761981133
+203,'05401,"Burlington, Chittenden County, Vermont, 05401, United States",44.47505325835544,-73.21080643580902
+204,'01913,"Amesbury, Essex County, Massachusetts, 01913, United States",42.85082314615384,-70.92891714615385
+205,'02331,"Duxbury, Plymouth County, Massachusetts, 02331, United States",42.042366683333334,-70.73720626666666
+206,'02421,"Lexington, Middlesex County, Massachusetts, 02421, United States",42.43976129666667,-71.236102455
+207,'01568,"Upton, Worcester County, Massachusetts, 01568, United States",42.16678303333333,-71.60741568333334
+208,'03106,"Hooksett, Merrimack County, New Hampshire, 03106, United States",43.057689537433156,-71.44597025775401
+209,'55372,"Prior Lake, Scott County, Minnesota, 55372, United States",44.712479908235295,-93.41853935006536
+210,'01536,"Grafton, Worcester County, Massachusetts, 01536, United States",42.2404847,-71.6914774
+211,'03885,"Stratham, Rockingham County, New Hampshire, 03885, United States",43.00416840772443,-70.8958218816284
+212,'02180,"Stoneham, Middlesex County, Massachusetts, 02180, United States",42.48311177672915,-71.09607240843567
+213,'02338,"Halifax, Plymouth County, Massachusetts, 02338, United States",41.99189281818182,-70.85595268181818
+214,'01385,"United States, Via Provinciale Ovest, Mola, Porto Azzurro, Livorno, Toscana, 57036, Italia",42.7628958,10.395024
+215,'04043,"Kennebunk, York County, Maine, 04043, United States",43.38528828268746,-70.54420241435098
+216,'00216,"United States, Via Provinciale Ovest, Mola, Porto Azzurro, Livorno, Toscana, 57036, Italia",42.7628958,10.395024
+217,'02117,"Back Bay, Boston, Suffolk County, Massachusetts, 02117, United States",42.3485086,-71.0740677
+218,'06418,"Derby, Naugatuck Valley Planning Region, Connecticut, 06418, United States",41.32362935710391,-73.07957000133293
+219,'03103,"Manchester, Hillsborough County, New Hampshire, 03103, United States",42.95230481363859,-71.44938572899119
+220,'02081,"Walpole, Norfolk County, Massachusetts, 02081, United States",42.139176402857146,-71.2490529242857
+221,'03053,"Londonderry, Rockingham County, New Hampshire, 03053, United States",42.86783682383235,-71.3802200970004
+222,'01501,"Auburn, Worcester County, Massachusetts, 01501, United States",42.19908522916667,-71.84144130833334
+223,'02056,"Norfolk, Norfolk County, Massachusetts, 02056, United States",42.113683691666665,-71.30893388333334
+224,'08035,"Haddon Heights, Camden County, New Jersey, 08035, United States",39.87929621685394,-75.06363163258428
+225,'36301,"Dothan, Houston County, Alabama, 36301, United States",31.186350128184284,-85.40153360271003
+226,'02814,"Glocester, Providence County, Rhode Island, 02814, United States",41.90046392777778,-71.68618372222222
+227,'02046,"United States, Via Provinciale Ovest, Mola, Porto Azzurro, Livorno, Toscana, 57036, Italia",42.7628958,10.395024
+228,'01969,"Rowley, Essex County, Massachusetts, 01969, United States",42.71377238,-70.89430091
+229,'03823,"Madbury, Strafford County, New Hampshire, 03823, United States",43.173300892,-70.935877736
+230,'02908,"Providence, Providence County, Rhode Island, 02908, United States",41.83482409512195,-71.43673706829267
+231,'01904,"Lynn, Essex County, Massachusetts, 01904, United States",42.47259558039216,-70.96379092274509
+232,'06250,"Mansfield, Capitol Planning Region, Connecticut, 06250, United States",41.757857957714286,-72.20858062757142
+233,'01960,"Peabody, Essex County, Massachusetts, 01960, United States",42.52020584738956,-70.95504720160643
+234,'01520,"Holden, Worcester County, Massachusetts, 01520, United States",42.34463867192982,-71.85041895614035
+235,'02649,"Mashpee, Barnstable County, Massachusetts, 02649, United States",41.62337667424242,-70.4842065439394
+236,'11238,"Kings County, City of New York, New York, 11238, United States",40.68105235046287,-73.96358952387236
+237,'84010,"Bountiful, Davis County, Utah, 84010, United States",40.875055607619046,-111.88651241714287
+238,'01605,"Worcester, Worcester County, Massachusetts, 01605, United States",42.26766874,-71.80198334153846
+239,'02188,"Weymouth, Norfolk County, Massachusetts, 02188, United States",42.20353917647059,-70.95564097058823
+240,'01524,"Leicester, Worcester County, Massachusetts, 01524, United States",42.24143252142857,-71.91095439285715
+241,'02451,"Waltham, Middlesex County, Massachusetts, 02451, United States",42.39328309275363,-71.25080792608696
+242,'03801,"Portsmouth, Rockingham County, New Hampshire, 03801, United States",43.071737249194726,-70.780029945388
+243,'33014,"Miami Lakes, Miami-Dade County, Florida, 33014, United States",25.900061482431003,-80.30711363666471
+244,'19119,"Philadelphia, Philadelphia County, Pennsylvania, 19119, United States",40.052213248504984,-75.1889607385382
+245,'02150,"Chelsea, Suffolk County, Massachusetts, 02150, United States",42.40003379318182,-71.03119893693182
+246,'02104,"United States, Via Provinciale Ovest, Mola, Porto Azzurro, Livorno, Toscana, 57036, Italia",42.7628958,10.395024
+247,'02466,"Newton, Middlesex County, Massachusetts, 02466, United States",42.34277611666667,-71.2470427
+248,'23451,"Virginia Beach, Virginia, 23451, United States",36.86353950787515,-76.00296678328878
+249,'04042,"Hollis, York County, Maine, 04042, United States",43.6252812755,-70.6238665413
+250,'02123,"United States, Via Provinciale Ovest, Mola, Porto Azzurro, Livorno, Toscana, 57036, Italia",42.7628958,10.395024
+251,'10016,"Manhattan, New York County, City of New York, New York, 10016, United States",40.74548189299914,-73.9796933224719
+252,'01908,"Nahant, Essex County, Massachusetts, 01908, United States",42.42848384347826,-70.93243503478261
+253,'01451,"Harvard, Worcester County, Massachusetts, 01451, United States",42.510714374409446,-71.5779278452756
+254,'03820,"Dover, Strafford County, New Hampshire, 03820, United States",43.191898948317046,-70.8786702990228
+255,'02330,"Carver, Plymouth County, Massachusetts, 02330, United States",41.88708821111111,-70.77025941111111
+256,'20003,"Washington, District of Columbia, 20003, United States",38.8841444084062,-76.99033718626235
+257,'02367,"Plympton, Plymouth County, Massachusetts, 02367, United States",41.95811271,-70.81548477999999
+258,'03063,"Ward 1, Nashua, Hillsborough County, New Hampshire, 03063, United States",42.77294734734074,-71.51266391601403
+259,'02540,"Falmouth, Barnstable County, Massachusetts, 02540, United States",41.56921660273224,-70.60752627923497
+260,'01431,"Ashby, Middlesex County, Massachusetts, 01431, United States",42.6795002,-71.8256958
+261,'03431,"Keene, Cheshire County, New Hampshire, 03431, United States",42.937937175638844,-72.2897098286201
+262,'03079,"Salem, Rockingham County, New Hampshire, 03079, United States",42.78828433393502,-71.21822327172082
+263,'02170,"Quincy, Norfolk County, Massachusetts, 02170, United States",42.266677825,-71.01257668928572
+264,'01833,"Georgetown, Essex County, Massachusetts, 01833, United States",42.721554351162794,-70.99225544186046
+265,'03038,"Derry, Rockingham County, New Hampshire, 03038, United States",42.88854278278415,-71.29552767248175
+266,'02909,"Providence, Providence County, Rhode Island, 02909, United States",41.81964497101449,-71.45537636231884
+267,'03064,"Ward 3, Nashua, Hillsborough County, New Hampshire, 03064, United States",42.77525764340624,-71.47321375750691
+268,'03049,"Hollis, Hillsborough County, New Hampshire, 03049, United States",42.74465501372549,-71.55544391176471
+269,'02747,"Dartmouth, Bristol County, Massachusetts, 02747, United States",41.65111411363636,-70.99534576060606
+270,'01844,"Methuen, Essex County, Massachusetts, 01844, United States",42.74709934260204,-71.17042009336735
+271,'02771,"Seekonk, Bristol County, Massachusetts, 02771, United States",41.83697406071428,-71.32915559285715
+272,'02806,"Barrington, Bristol County, Rhode Island, 02806, United States",41.74493247631579,-71.32959488026316
+273,'03051,"Hudson, Hillsborough County, New Hampshire, 03051, United States",42.763808137562535,-71.41488053311562
+274,'01801,"Woburn, Middlesex County, Massachusetts, 01801, United States",42.48405285569048,-71.15632164401701
+275,2114,"United States, Eastern 7 Village, Parañaque, Southern Manila District, Metro Manila, 1700, Philippines",14.4866914,121.0214161
+276,'01702,"Framingham, Middlesex County, Massachusetts, 01702, United States",42.28810559615384,-71.43743356346154
+277,'03861,"Lee, Strafford County, New Hampshire, 03861, United States",43.129485045454544,-71.01091113636363
+278,'01830,"Haverhill, Essex County, Massachusetts, 01830, United States",42.780061862000004,-71.069158078
+279,'02246,"United States, Via Provinciale Ovest, Mola, Porto Azzurro, Livorno, Toscana, 57036, Italia",42.7628958,10.395024
+280,'01852,"Lowell, Middlesex County, Massachusetts, 01852, United States",42.625832588811186,-71.29200021934732
+281,'02382,"Whitman, Plymouth County, Massachusetts, 02382, United States",42.0792491875,-70.93076015
+282,'23235,"Bon Air, Chesterfield County, Virginia, 23235, United States",37.51069377142857,-77.56668027591658
+283,'02364,"Kingston, Plymouth County, Massachusetts, 02364, United States",41.99028934571428,-70.73300865142856
+284,2134,"United, Mount Pleasant Township, Westmoreland County, Pennsylvania, 15689, United States",40.2184039,-79.4878157
+285,'02809,"Bristol, Bristol County, Rhode Island, 02809, United States",41.67672435833333,-71.27574012777778
+286,'01832,"Haverhill, Essex County, Massachusetts, 01832, United States",42.76952290212766,-71.10200798297872
+287,'01225,"Cheshire, Berkshire County, Massachusetts, 01225, United States",42.5689371090909,-73.15532946363636
+288,'02269,"Quincy, Norfolk County, Massachusetts, 02269, United States",42.23757,-71.011446
+289,'94025,"Menlo Park, San Mateo County, California, 94025, United States",37.4531042039267,-122.18135878246073
+290,'02185,"United States, Via Provinciale Ovest, Mola, Porto Azzurro, Livorno, Toscana, 57036, Italia",42.7628958,10.395024
+291,'02905,"Providence, Providence County, Rhode Island, 02905, United States",41.78885796666667,-71.40309312962962
+292,'01754,"Maynard, Middlesex County, Massachusetts, 01754, United States",42.431588011041406,-71.45444809259723
+293,'02675,"Yarmouth, Barnstable County, Massachusetts, 02675, United States",41.702021675,-70.24805265
+294,'03903,"Eliot, York County, Maine, 03903, United States",43.13671584985375,-70.78808383243418
+295,'02053,"Medway, Norfolk County, Massachusetts, 02053, United States",42.14255106923077,-71.42687333846155
+296,'02852,"North Kingstown, South County, Rhode Island, 02852, United States",41.590413377070064,-71.45743847484076
+297,'10025,"Manhattan, New York County, City of New York, New York, 10025, United States",40.79768892734827,-73.96763189187139
+298,'02133,"Beacon Hill, Boston, Suffolk County, Massachusetts, 02133, United States",42.359031619999996,-71.06219168
+299,'01901,"Lynn, Essex County, Massachusetts, 01901, United States",42.46625262142857,-70.94907145714285
+300,'02780,"Taunton, Bristol County, Massachusetts, 02780, United States",41.90037711805556,-71.09595236111112
+301,'02343,"Holbrook, Norfolk County, Massachusetts, 02343, United States",42.14820461764706,-71.01113845294118
+302,'03811,"Atkinson, Rockingham County, New Hampshire, 03811, United States",42.8413337969697,-71.17108747525252
+303,'01940,"Lynnfield, Essex County, Massachusetts, 01940, United States",42.52077513481482,-71.03253961925927
+304,'01862,"Billerica, Middlesex County, Massachusetts, 01862, United States",42.578541054545454,-71.29392740909091
+305,'02748,"Dartmouth, Bristol County, Massachusetts, 02748, United States",41.58686508125,-70.96771790208334
+306,'02020,"United States, Via Provinciale Ovest, Mola, Porto Azzurro, Livorno, Toscana, 57036, Italia",42.7628958,10.395024
+307,'01523,"Lancaster, Worcester County, Massachusetts, 01523, United States",42.45124011111111,-71.68443023888888
+308,'03840,"Greenland, Rockingham County, New Hampshire, 03840, United States",43.02917456523438,-70.85729052851562
+309,'02667,"Wellfleet, Barnstable County, Massachusetts, 02667, United States",41.946102065625,-70.01766655520834
+310,'01803,"Burlington, Middlesex County, Massachusetts, 01803, United States",42.5164199699343,-71.19838490459921
+311,'02762,"Plainville, Norfolk County, Massachusetts, 02762, United States",42.01116328888889,-71.32508586666667
+312,'03858,"Newton, Rockingham County, New Hampshire, 03858, United States",42.870580139759035,-71.04289625301205
+313,'02060,"Scituate, Plymouth County, Massachusetts, 02060, United States",42.2280877,-70.7689446
+314,'20910,"Silver Spring, Montgomery County, Maryland, 20910, United States",38.99980194778838,-77.03007765221162
+315,'03755,"Hanover, Grafton County, New Hampshire, 03755, United States",43.70511883608978,-72.2798338749557
+316,'01534,"Northbridge, Worcester County, Massachusetts, 01534, United States",42.1373744375,-71.6469478
+317,'06360,"Norwich, Southeastern Connecticut Planning Region, Connecticut, 06360, United States",41.53614399435574,-72.08363557427558
+318,'01843,"Lawrence, Essex County, Massachusetts, 01843, United States",42.692252190909095,-71.1542269939394
+319,'01606,"Worcester, Worcester County, Massachusetts, 01606, United States",42.308916135000004,-71.793190105
+320,'02346,"Middleborough, Plymouth County, Massachusetts, 02346, United States",41.89092145952381,-70.90330084047619
+321,'24460,"Bath County, Virginia, 24460, United States",38.04601015,-79.68577875
+322,'01542,"Leicester, Worcester County, Massachusetts, 01542, United States",42.201072,-71.9088699
+323,'95219,"Stockton, San Joaquin County, California, 95219, United States",37.999108332,-121.35810050399999
+324,'00210,"United States, Via Provinciale Ovest, Mola, Porto Azzurro, Livorno, Toscana, 57036, Italia",42.7628958,10.395024
+325,'02721,"Fall River, Bristol County, Massachusetts, 02721, United States",41.68661156818182,-71.15823063181818
+326,'01952,"Salisbury, Essex County, Massachusetts, 01952, United States",42.83889896666667,-70.86700088333333
+327,'02322,"Avon, Norfolk County, Massachusetts, 02322, United States",42.13463891333333,-71.04582144
+328,'01827,"Dunstable, Middlesex County, Massachusetts, 01827, United States",42.679183424257424,-71.4819417549505
+329,'02379,"West Bridgewater, Plymouth County, Massachusetts, 02379, United States",42.02711505,-71.01670897999999
+330,'10001,"Manhattan, New York County, City of New York, New York, 10001, United States",40.74839943419741,-73.99403565942173
+331,'02646,"Harwich, Barnstable County, Massachusetts, 02646, United States",41.667846716666666,-70.07470965
+332,'02537,"Sandwich, Barnstable County, Massachusetts, 02537, United States",41.7284895375,-70.455542225
+333,'01474,"Townsend, Middlesex County, Massachusetts, 01474, United States",42.6769675,-71.7434689
+334,'02904,"Providence, Providence County, Rhode Island, 02904, United States",41.85882929230769,-71.43280512948718
+335,'04032,"Freeport, Cumberland County, Maine, 04032, United States",43.856103618424854,-70.10230273978806
+336,'06488,"Southbury, Naugatuck Valley Planning Region, Connecticut, 06488, United States",41.47483715293077,-73.2148433079186
+337,'80203,80203,39.73080729396315,-104.98331801901216
+338,'06033,"Glastonbury, Capitol Planning Region, Connecticut, 06033, United States",41.70727373954504,-72.56814646797642
+339,'01432,"Ayer, Middlesex County, Massachusetts, 01432, United States",42.563736482222225,-71.58470980666667
+340,'02093,"Wrentham, Norfolk County, Massachusetts, 02093, United States",42.03824917368421,-71.34718052105264
+341,'01581,"Westborough, Worcester County, Massachusetts, 01581, United States",42.27461470461538,-71.62633090307692
+342,'30329,"DeKalb County, Georgia, 30329, United States",33.82507167385787,-84.32542127411168
+343,'03060,"Ward 6, Nashua, Hillsborough County, New Hampshire, 03060, United States",42.746641473790774,-71.4626372791776
+344,'02760,"North Attleborough, Bristol County, Massachusetts, 02760, United States",41.974766278,-71.32825730399999
+345,'02327,"United States, Via Provinciale Ovest, Mola, Porto Azzurro, Livorno, Toscana, 57036, Italia",42.7628958,10.395024
+346,'03290,"Nottingham, Rockingham County, New Hampshire, 03290, United States",43.12646378,-71.10223232608696
+347,'03222,"Bristol, Grafton County, New Hampshire, 03222, United States",43.612671344979915,-71.75559724538152
+348,'02536,"Falmouth, Barnstable County, Massachusetts, 02536, United States",41.59108079560762,-70.57956148418741
+349,'20912,"Takoma Park, Montgomery County, Maryland, 20912, United States",38.9780667636528,-76.99582058824593
+350,'01239,"United States, Via Provinciale Ovest, Mola, Porto Azzurro, Livorno, Toscana, 57036, Italia",42.7628958,10.395024
+351,'05068,"Royalton, Windsor County, Vermont, 05068, United States",43.79875190319019,-72.51112747276073
+352,'03766,"Lebanon, Grafton County, New Hampshire, 03766, United States",43.64541962699029,-72.25267445961165
+353,'01983,"Topsfield, Essex County, Massachusetts, 01983, United States",42.637324725,-70.94640794166666
+354,'06357,"East Lyme, Southeastern Connecticut Planning Region, Connecticut, 06357, United States",41.32036489091643,-72.210550468369
+355,'02769,"Rehoboth, Bristol County, Massachusetts, 02769, United States",41.851198104000005,-71.24787208400001
+356,2138,"United, Mount Pleasant Township, Westmoreland County, Pennsylvania, 15689, United States",40.2184039,-79.4878157
+357,'03087,"Windham, Rockingham County, New Hampshire, 03087, United States",42.81055823588643,-71.31814176820733
+358,'01002,"Amherst, Hampshire County, Massachusetts, 01002, United States",42.382033680769226,-72.51861421025642
+359,'98107,"Seattle, King County, Washington, 98107, United States",47.6692566797052,-122.37653119019909
+360,'01139,"United States, Via Provinciale Ovest, Mola, Porto Azzurro, Livorno, Toscana, 57036, Italia",42.7628958,10.395024
+361,'12401,"City of Kingston, Ulster County, New York, 12401, United States",41.93460200888625,-74.012551495204
+362,2215,"United, Mount Pleasant Township, Westmoreland County, Pennsylvania, 15689, United States",40.2184039,-79.4878157
+363,'01106,"Longmeadow, Hampden County, Massachusetts, 01106, United States",42.053987413636364,-72.56714000454545
+364,'03045,"Goffstown, Hillsborough County, New Hampshire, 03045, United States",43.01511471927374,-71.56264049944134
+365,'06119,"West Hartford, Capitol Planning Region, Connecticut, 06119, United States",41.763425447648416,-72.72793155867386
+366,'94127,"San Francisco, California, 94127, United States",37.73937000633188,-122.4652823106987
+367,'03865,"Plastow, Rockingham County, New Hampshire, 03865, United States",42.83530235031847,-71.0994939178344
+368,'01238,"Becket, Berkshire County, Massachusetts, 01238, United States",42.30270057777778,-73.13886666666666
+369,'70065,"Kenner, Jefferson Parish, Louisiana, 70065, United States",30.025380004207772,-90.25344328078653
+370,'01027,"Westhampton, Hampshire County, Massachusetts, 01027, United States",42.30640965833333,-72.74048570694444
+371,'01835,"Haverhill, Essex County, Massachusetts, 01835, United States",42.76088061388889,-71.08061486944445
+372,'03052,"Litchfield, Hillsborough County, New Hampshire, 03052, United States",42.83883941301684,-71.44920997723328
+373,'02214,"West End, Boston, Suffolk County, Massachusetts, 02214, United States",42.3668615,-71.0689474
+374,'03886,"Tamworth, Carroll County, New Hampshire, 03886, United States",43.85291214102564,-71.24717332307692
+375,'21045,"Columbia, Howard County, Maryland, 21045, United States",39.207995134094055,-76.82585626770401
+376,'05408,"Burlington, Chittenden County, Vermont, 05408, United States",44.511337963636365,-73.24979989090909
+377,'97405,"Eugene, Lane County, Oregon, 97405, United States",44.02015183873028,-123.09552812103362
+378,'27609,"Raleigh, Wake County, North Carolina, 27609, United States",35.839785451017725,-78.62933502606697
+379,'10003,"Manhattan, New York County, City of New York, New York, 10003, United States",40.731496316821804,-73.9886203546875
+380,'11217,"Kings County, City of New York, New York, 11217, United States",40.68227073544411,-73.97908829946877
+381,'04358,"China, Kennebec County, Maine, 04358, United States",44.41684746122449,-69.54185627000888
+382,'53207,"Milwaukee, Milwaukee County, Wisconsin, 53207, United States",42.982717704595956,-87.89961037422766
+383,'90027,90027,34.10437650491071,-118.29061687098215
+384,02134,"Allston, Boston, Suffolk County, Massachusetts, 02134, United States",42.35659468626126,-71.13087487342342
+385,'02452,"Waltham, Middlesex County, Massachusetts, 02452, United States",42.38826073170732,-71.22179427317073
+386,'02010,"United States, Via Provinciale Ovest, Mola, Porto Azzurro, Livorno, Toscana, 57036, Italia",42.7628958,10.395024
+387,'02391,"United States, Via Provinciale Ovest, Mola, Porto Azzurro, Livorno, Toscana, 57036, Italia",42.7628958,10.395024
+388,'02720,"Fall River, Bristol County, Massachusetts, 02720, United States",41.726954954545455,-71.13281634242423
+389,'01219,"United States, Via Provinciale Ovest, Mola, Porto Azzurro, Livorno, Toscana, 57036, Italia",42.7628958,10.395024
+390,'60559,"Westmont, DuPage County, Illinois, 60559, United States",41.79812989406308,-87.97536666846011
+391,'08534,"Pennington, Mercer County, New Jersey, 08534, United States",40.32482118944419,-74.79505309075198
+392,'01863,"Chelmsford, Middlesex County, Massachusetts, 01863, United States",42.62302148518519,-71.37908616296296
+393,'02709,"United States, Via Provinciale Ovest, Mola, Porto Azzurro, Livorno, Toscana, 57036, Italia",42.7628958,10.395024
+394,'94708,"Berkeley, Alameda County, California, 94708, United States",37.887483165384616,-122.26000248846154
+395,'03229,"Hopkinton, Merrimack County, New Hampshire, 03229, United States",43.20935729022557,-71.70448503609023
+396,'06330,"Sprague, Southeastern Connecticut Planning Region, Connecticut, 06330, United States",41.62805948071066,-72.07738150369833
+397,'01854,"Lowell, Middlesex County, Massachusetts, 01854, United States",42.64575166326531,-71.33952817551021
+398,'02146,"United States, Via Provinciale Ovest, Mola, Porto Azzurro, Livorno, Toscana, 57036, Italia",42.7628958,10.395024
+399,'01464,"Shirley, Middlesex County, Massachusetts, 01464, United States",42.54009268076923,-71.65181726923078
+400,'01420,"Fitchburg, Worcester County, Massachusetts, 01420, United States",42.57679978888889,-71.80423512
+401,'01232,"United States, Via Provinciale Ovest, Mola, Porto Azzurro, Livorno, Toscana, 57036, Italia",42.7628958,10.395024
+402,'03101,"Manchester, Hillsborough County, New Hampshire, 03101, United States",42.98990314026946,-71.46304510404192
+403,'02196,"United States, Via Provinciale Ovest, Mola, Porto Azzurro, Livorno, Toscana, 57036, Italia",42.7628958,10.395024
+404,'33480,"West Palm Beach, Palm Beach County, Florida, 33480, United States",26.72260825138889,-80.04797711574074
+405,'06355,"Groton, Southeastern Connecticut Planning Region, Connecticut, 06355, United States",41.36574951887938,-71.98508759574938
+406,'02635,"Cotuit, Barnstable, Barnstable County, Massachusetts, 02635, United States",41.62813801260504,-70.4413173630252
+407,'03906,"North Berwick, York County, Maine, 03906, United States",43.32816279938795,-70.76007109995292
+408,'02861,"Pawtucket, Providence County, Rhode Island, 02861, United States",41.88788268596491,-71.35256591403508
+409,'78215,"San Antonio, Bexar County, Texas, 78215, United States",29.44294124878049,-98.47869850243902
+410,'02901,"Providence, Providence County, Rhode Island, 02901, United States",41.8087614,-71.41615565
+411,'02314,"United States, Via Provinciale Ovest, Mola, Porto Azzurro, Livorno, Toscana, 57036, Italia",42.7628958,10.395024
+412,'10036,"Manhattan, New York County, City of New York, New York, 10036, United States",40.759465139151224,-73.98925608081291
+413,'02319,"United States, Via Provinciale Ovest, Mola, Porto Azzurro, Livorno, Toscana, 57036, Italia",42.7628958,10.395024
+414,02139,"Cambridge, Middlesex County, Massachusetts, 02139, United States",42.36395764499055,-71.10166153175804
+415,'04086,"Topsham, Sagadahoc County, Maine, 04086, United States",43.94387392441456,-69.96364254961743
+416,'01430,"Ashburnham, Worcester County, Massachusetts, 01430, United States",42.62526595294118,-71.91892642352941
+417,'01235,"Hinsdale, Berkshire County, Massachusetts, 01235, United States",42.4394272569149,-73.11615569707448
+418,'01747,"Hopedale, Worcester County, Massachusetts, 01747, United States",42.12609557272727,-71.53440211818182
+419,'05482,"Shelburne, Chittenden County, Vermont, 05482, United States",44.391760805823864,-73.21806723323864
+420,'03110,"Bedford, Hillsborough County, New Hampshire, 03110, United States",42.93607516505073,-71.51689284656145
+421,'03102,"Manchester, Hillsborough County, New Hampshire, 03102, United States",42.99681719495305,-71.48487156314555
+422,'03910,"York, York County, Maine, 03910, United States",43.171771615384614,-70.60903039230769
+423,'04090,"Wells, York County, Maine, 04090, United States",43.316480560782374,-70.60808049560796
+424,'03874,"Seabrook, Rockingham County, New Hampshire, 03874, United States",42.88450251581921,-70.86275260790961
+425,'12208,"City of Albany, Albany County, New York, 12208, United States",42.65623659112173,-73.79918967352867
+426,'06708,"Waterbury, Naugatuck Valley Planning Region, Connecticut, 06708, United States",41.55211014266569,-73.06503131202486
+427,'10514,"Town of New Castle, Westchester County, New York, 10514, United States",41.171004106719764,-73.77193793098557
+428,'03909,"York, York County, Maine, 03909, United States",43.15911422793542,-70.64297815262971
+429,'02302,"Brockton, Plymouth County, Massachusetts, 02302, United States",42.08816759032258,-70.9985879516129
+430,'44333,"Fairlawn, Summit County, Ohio, 44333, United States",41.14328181834533,-81.62103245053956
+431,'33126,33126,25.776090701557482,-80.29177844189145
+432,'01965,"Beverly, Essex County, Massachusetts, 01965, United States",42.55348152,-70.84541044
+433,'01244,"New Marlborough, Berkshire County, Massachusetts, 01244, United States",42.114674075,-73.267238775
+434,'91642,"United States, Via Provinciale Ovest, Mola, Porto Azzurro, Livorno, Toscana, 57036, Italia",42.7628958,10.395024
+435,'02563,"Sandwich, Barnstable County, Massachusetts, 02563, United States",41.73946656862745,-70.4956237745098
+436,'03215,"Waterville Valley, Grafton County, New Hampshire, 03215, United States",43.93384098181818,-71.5458851
+437,'11102,"Queens County, City of New York, New York, 11102, United States",40.7710305773358,-73.92466446231884
+438,'34103,"Naples, Collier County, Florida, 34103, United States",26.189249645142855,-81.80348563085714
+439,'92144,"United States, Via Provinciale Ovest, Mola, Porto Azzurro, Livorno, Toscana, 57036, Italia",42.7628958,10.395024
+440,'55447,"Plymouth, Hennepin County, Minnesota, 55447, United States",45.001784161417326,-93.4899132031496
+441,'01745,"Southborough, Worcester County, Massachusetts, 01745, United States",42.293254,-71.503152
+442,'06320,06320,41.34597295723663,-72.10424502691465
+443,'02666,"Truro, Barnstable County, Massachusetts, 02666, United States",42.007500171428575,-70.05299720714285
+444,'02779,"Berkley, Bristol County, Massachusetts, 02779, United States",41.83357568181818,-71.06604796363636
+445,'03043,"Francestown, Hillsborough County, New Hampshire, 03043, United States",42.9832194212963,-71.804968675
+446,'03842,"Hampton, Rockingham County, New Hampshire, 03842, United States",42.93899843602941,-70.82941618106618
+447,'33166,"Miami Springs, Miami-Dade County, Florida, 33166, United States",25.822864742428212,-80.30490292104135
+448,'33316,"Fort Lauderdale, Broward County, Florida, 33316, United States",26.09956265222025,-80.12778466056838
+449,'01096,"Williamsburg, Hampshire County, Massachusetts, 01096, United States",42.40080096923077,-72.73916739230769
+450,'01752,"Marlborough, Middlesex County, Massachusetts, 01752, United States",42.352011676767674,-71.54623641717171
+451,'02766,"Norton, Bristol County, Massachusetts, 02766, United States",41.96110669375,-71.17839044583334
+452,'02633,"Chatham, Barnstable County, Massachusetts, 02633, United States",41.68184064,-69.974522905
+453,'20010,"Washington, District of Columbia, 20010, United States",38.93335043479166,-77.0290098215
+454,'10019,"Manhattan, New York County, City of New York, New York, 10019, United States",40.76358696210481,-73.98607983317454
+455,'04011,"Brunswick, Cumberland County, Maine, 04011, United States",43.90449747310829,-69.96196104911738
+456,'06279,"Willington, Capitol Planning Region, Connecticut, 06279, United States",41.88073073423512,-72.26833484987702
+457,'11000,"United States, Via Provinciale Ovest, Mola, Porto Azzurro, Livorno, Toscana, 57036, Italia",42.7628958,10.395024
+458,'80231,80231,39.67010985385078,-104.88815391979543
+459,'20842,"Montgomery County, Maryland, 20842, United States",39.21848645737705,-77.40965294426229
+460,'07645,"Montvale, Bergen County, New Jersey, 07645, United States",41.051787525499996,-74.0457472585
+461,'23456,"Virginia Beach, Virginia, 23456, United States",36.755216141021286,-76.0645378435355
+462,'23103,"Goochland County, Virginia, 23103, United States",37.64964776259344,-77.71411826314592
+463,'03871,"Rye, Rockingham County, New Hampshire, 03871, United States",42.9771941,-70.77408035
+464,'20143,"Prince William County, Virginia, 20143, United States",38.849001276785714,-77.57500260535714
+465,'05602,"Montpelier, Washington County, Vermont, 05602, United States",44.26043943726877,-72.58035470870512
+466,'02638,"Dennis, Barnstable County, Massachusetts, 02638, United States",41.73675986,-70.19090022
+467,'03753,"Grantham, Sullivan County, New Hampshire, 03753, United States",43.51185575546875,-72.12762895234376
+468,'02454,"Waltham, Middlesex County, Massachusetts, 02454, United States",42.3764147,-71.2365688
+469,'11206,"Kings County, City of New York, New York, 11206, United States",40.701626058749994,-73.94306767413732
+470,'06010,"Bristol, Naugatuck Valley Planning Region, Connecticut, 06010, United States",41.68317560387035,-72.93069750356115
+471,'03905,"Kittery Point, Kittery, York County, Maine, 03905, United States",43.09091605920218,-70.69278881885766
+472,'20815,"Chevy Chase, Montgomery County, Maryland, 20815, United States",38.981316137567276,-77.07932938288482
+473,'94609,"Oakland, Alameda County, California, 94609, United States",37.83271724938272,-122.26426623950617
+474,'92782,"Tustin, Orange County, California, 92782, United States",33.73217823226973,-117.79323683018093
+475,'04107,"Cape Elizabeth, Cumberland County, Maine, 04107, United States",43.60150489177335,-70.23037160950688
+476,'94115,"San Francisco, California, 94115, United States",37.78496417610063,-122.43476619937107
+477,'01865,"Billerica, Middlesex County, Massachusetts, 01865, United States",42.534465,-71.266289
+478,'01603,"Worcester, Worcester County, Massachusetts, 01603, United States",42.24340047878788,-71.83987127878788
+479,'02183,"United States, Via Provinciale Ovest, Mola, Porto Azzurro, Livorno, Toscana, 57036, Italia",42.7628958,10.395024
+480,'03071,"New Ipswich, Hillsborough County, New Hampshire, 03071, United States",42.75233937847222,-71.86562548333333
+481,'20740,"College Park, Prince George's County, Maryland, 20740, United States",38.998286983078984,-76.92592837427469
+482,'01756,"Hopedale, Worcester County, Massachusetts, 01756, United States",42.12010503333333,-71.53250093999999
+483,'21039,"United States, Via Provinciale Ovest, Mola, Porto Azzurro, Livorno, Toscana, 57036, Italia",42.7628958,10.395024
+484,'11545,"Village of Old Brookville, Town of Oyster Bay, Nassau County, New York, 11545, United States",40.83066510137645,-73.60847807242736
+485,'20138,"Fauquier County, Virginia, 20138, United States",38.635404475,-77.6846985
+486,'02739,"Mattapoisett, Plymouth County, Massachusetts, 02739, United States",41.664563858823534,-70.81437132352941
+487,'04112,"Portland, Cumberland County, Maine, 04112, United States",43.653509,-70.261578
+488,'02664,"Yarmouth, Barnstable County, Massachusetts, 02664, United States",41.65954140441176,-70.20468663382353
+489,'22201,"Arlington, Arlington County, Virginia, 22201, United States",38.886719284476605,-77.0969777302916
+490,'33283,"Kendall, Miami-Dade County, Florida, 33283, United States",25.6906295,-80.3880968
+491,'48302,"Bloomfield Township, Oakland County, Michigan, 48302, United States",42.58733013086053,-83.29448222047478
+492,'91320,"Casa Conejo, Ventura County, California, 91320, United States",34.18404815081967,-118.93882311639345
+493,'20139,"Fauquier County, Virginia, 20139, United States",38.67385416923077,-77.68987523076923
+494,'01250,"United States, Via Provinciale Ovest, Mola, Porto Azzurro, Livorno, Toscana, 57036, Italia",42.7628958,10.395024
+495,'20895,"Kensington, Montgomery County, Maryland, 20895, United States",39.03026215189108,-77.07416922723147
+496,'10475,"The Bronx, City of New York, New York, 10475, United States",40.87722535600336,-73.82719760293871
+497,'20148,"Broadlands, Loudoun County, Virginia, 20148, United States",39.004714627014216,-77.51531900426541
+498,'91711,"Claremont, Los Angeles County, California, 91711, United States",34.106596464825586,-117.72114342688954
+499,'01243,"Middlefield, Hampshire County, Massachusetts, 01243, United States",42.33746925,-72.9932360375
+500,'02864,"Cumberland, Providence County, Rhode Island, 02864, United States",41.95897860810811,-71.43361518108108
+501,'02216,"United States, Via Provinciale Ovest, Mola, Porto Azzurro, Livorno, Toscana, 57036, Italia",42.7628958,10.395024
+502,'96023,"Siskiyou County, California, 96023, United States",41.9722,-121.935975
+503,'32953,"Brevard County, Florida, 32953, United States",28.40496657145488,-80.7035438412523
+504,'07417,"Franklin Lakes, Bergen County, New Jersey, 07417, United States",41.00861652076677,-74.21024706453674
+505,'01263,"Stockbridge, Berkshire County, Massachusetts, 01263, United States",42.295238,-73.31767
+506,'11201,"Kings County, City of New York, New York, 11201, United States",40.69257529083334,-73.99175616782051
+507,'02318,"United States, Via Provinciale Ovest, Mola, Porto Azzurro, Livorno, Toscana, 57036, Italia",42.7628958,10.395024
+508,'02910,"Cranston, Providence County, Rhode Island, 02910, United States",41.78041392777778,-71.43853118518518
+509,'02885,"Warren, Bristol County, Rhode Island, 02885, United States",41.72998535106383,-71.2801100638298
+510,'01242,"Lenox, Berkshire County, Massachusetts, 01242, United States",42.3358771,-73.2472527
+511,'02821,"United States, Via Provinciale Ovest, Mola, Porto Azzurro, Livorno, Toscana, 57036, Italia",42.7628958,10.395024
+512,'49506,"East Grand Rapids, Kent County, Michigan, 49506, United States",42.94886003641536,-85.62453144722618
+513,'04105,"Falmouth, Cumberland County, Maine, 04105, United States",43.73575923883584,-70.26627338033418
+514,'10128,"Manhattan, New York County, City of New York, New York, 10128, United States",40.78174555890964,-73.95114075466935
+515,'18901,"Doylestown, Bucks County, Pennsylvania, 18901, United States",40.315032782240095,-75.12606440680693
+516,'02023,"United States, Via Provinciale Ovest, Mola, Porto Azzurro, Livorno, Toscana, 57036, Italia",42.7628958,10.395024
+517,'76701,"Waco, McLennan County, Texas, 76701, United States",31.552268948101265,-97.13692522405063
+518,'60622,"West Town, Chicago, West Chicago Township, Cook County, Illinois, 60622, United States",41.90105125644115,-87.67420987636702
+519,'05001,"Hartford, Windsor County, Vermont, 05001, United States",43.6651723738268,-72.3666572824867
+520,'01054,"Leverett, Franklin County, Massachusetts, 01054, United States",42.4611144,-72.498417375
+521,'02655,"Oysterville, Barnstable, Barnstable County, Massachusetts, 02655, United States",41.636249848717945,-70.38384562820514
+522,'06511,"New Haven, South Central Connecticut Planning Region, Connecticut, 06511, United States",41.319128364869655,-72.9297410748071
+523,'06066,06066,41.84305443101014,-72.46601910870235
+524,'02177,"United States, Via Provinciale Ovest, Mola, Porto Azzurro, Livorno, Toscana, 57036, Italia",42.7628958,10.395024
+525,'06412,"Chester, Lower Connecticut River Valley Planning Region, Connecticut, 06412, United States",41.405659762489044,-72.4647959473269
+526,'44040,"Mayfield Heights, Cuyahoga County, Ohio, 44040, United States",41.52385157039711,-81.45156084259928
+527,'03054,"Merrimack, Hillsborough County, New Hampshire, 03054, United States",42.85173394230387,-71.50691316375372
+528,'20116,"Fauquier County, Virginia, 20116, United States",38.86504678,-77.8557205
+529,'43017,"Dublin, Washington Township, Franklin County, Ohio, 43017, United States",40.10447419156626,-83.12096734533132
